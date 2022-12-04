@@ -1,6 +1,6 @@
-![Github Banner](assets/github-banner.png)
+![Github Banner](assets/github-banner.jpg)
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hello! Welcome to my GitHub Profile 👋
 
 I'm Jillu Rahman Jibon, a junior Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of my time coding outstanding projects.
 
